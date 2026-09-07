@@ -1,4 +1,4 @@
-const CACHE_NAME = "student-diary-v2";
+const CACHE_NAME = "student-diary-v3.0";
 
 self.addEventListener("install", event => {
     self.skipWaiting();
