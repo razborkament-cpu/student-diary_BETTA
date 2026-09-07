@@ -4217,7 +4217,7 @@ window.A = {
               "end": "15:50",
               "room": "101 /КПА",
               "teacher": "доц.Солодухин Д.В.",
-              "week": "odd",
+              "week": "all",
               "fromWeek": 2,
               "weeks": []
             },
